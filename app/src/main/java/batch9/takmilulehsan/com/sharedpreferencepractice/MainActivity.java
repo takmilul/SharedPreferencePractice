@@ -53,6 +53,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+//minor changes for git command
 
 }
